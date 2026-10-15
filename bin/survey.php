@@ -48,6 +48,8 @@ $run = [
 	'started' => $started,
 	'finished' => gmdate('c'),
 	'tool' => 'nfdi-acme-survey',
+	// Code version, cited on Zenodo by its Software Heritage ID (SWHID).
+	'code_commit' => trim((string)shell_exec('git -C ' . escapeshellarg($root) . ' rev-parse HEAD')),
 	'php' => PHP_VERSION,
 	'openssl' => OPENSSL_VERSION_TEXT,
 	'sources' => [

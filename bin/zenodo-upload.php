@@ -17,7 +17,9 @@ declare(strict_types=1);
  *
  * Metadata comes from zenodo/metadata.json (InvenioRDM format, including the
  * funding) and zenodo/description.html; date, version and the run's totals
- * are added. The code at HEAD is attached as a tarball for reproducibility.
+ * are added. The code is not uploaded: the record links its Software
+ * Heritage ID (swh:1:rev:<commit> of the run's code_commit), so that commit
+ * must be pushed and archived on Software Heritage.
  */
 
 namespace NfdiAcmeSurvey;
@@ -55,17 +57,23 @@ $metadata['description'] = (string)file_get_contents("$root/zenodo/description.h
 	$t['consortia_only_lets_encrypt'],
 );
 
-$source = sys_get_temp_dir() . "/nfdi-acme-survey-src-$date.tar.gz";
-exec('git -C ' . escapeshellarg($root) . ' archive --format=tar.gz --prefix=nfdi-acme-survey/ -o ' . escapeshellarg($source) . ' HEAD', $_, $rc);
-if ($rc !== 0) {
-	fwrite(STDERR, "git archive failed; commit the code first\n");
+$commit = $run['code_commit'] ?? '';
+exec('git -C ' . escapeshellarg($root) . ' branch -r --contains ' . escapeshellarg($commit) . ' 2>/dev/null', $remotes);
+if (!preg_match('/^[0-9a-f]{40}$/', $commit) || !$remotes) {
+	fwrite(STDERR, "code_commit in run.json must be a pushed commit, got '$commit'\n");
 	exit(1);
 }
+$metadata['related_identifiers'][] = [
+	'identifier' => "swh:1:rev:$commit",
+	'scheme' => 'swh',
+	'relation_type' => ['id' => 'iscompiledby'],
+	'resource_type' => ['id' => 'software'],
+];
 
 $api = isset($options['production']) ? Zenodo::PRODUCTION : Zenodo::SANDBOX;
 $zenodo = new Zenodo(new Http(sys_get_temp_dir() . '/nfdi-acme-survey-zenodo'), $api, $token);
 try {
-	$url = $zenodo->draft($metadata, [...glob("$runDir/*.{csv,json}", GLOB_BRACE), $source], $options['new-version-of'] ?? null);
+	$url = $zenodo->draft($metadata, glob("$runDir/*.{csv,json}", GLOB_BRACE), $options['new-version-of'] ?? null);
 } catch (\RuntimeException $e) {
 	fwrite(STDERR, "Zenodo: {$e->getMessage()}\n");
 	exit(1);

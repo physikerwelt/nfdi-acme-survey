@@ -2,6 +2,7 @@
     "started": "2026-10-15T08:55:57+00:00",
     "finished": "2026-10-15T08:57:07+00:00",
     "tool": "nfdi-acme-survey",
+    "code_commit": "cfcc7b116ce585692f7f208238868d647b5166bf",
     "php": "8.3.35",
     "openssl": "OpenSSL 4.0.3 29 Sep 2026",
     "sources": {

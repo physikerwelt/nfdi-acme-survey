@@ -2,6 +2,8 @@
 
 Which certificate authorities do the services of the NFDI consortia depend on?
 
+Data: [10.5281/zenodo.23391370](https://doi.org/10.5281/zenodo.23391370) (run of 2026-10-15)
+
 > **Status: alpha 01.** This is the first version. Expect problems, and do
 > not rely on the results without reviewing the host lists (`hosts.csv`,
 > `services.json`) by hand.
@@ -72,8 +74,9 @@ in the history.
    - For each host, the certificate served on port 443 (TLS handshake with
      SNI, not verified) and its issuer.
 4. **Publication**: `php bin/zenodo-upload.php --run=data/<date>` creates a
-   Zenodo draft with the run's files and the code at `HEAD`; it is reviewed
-   and published by hand in the Zenodo web interface.
+   Zenodo draft with the run's files. The code is cited by its Software
+   Heritage ID, `swh:1:rev:` plus the `code_commit` that `run.json` records.
+   The draft is reviewed and published by hand in the Zenodo web interface.
 
 ## Usage
 
@@ -117,8 +120,11 @@ where the script finds it when `ZENODO_TOKEN` is unset:
 `security add-generic-password -s zenodo-deposit -a "$USER" -w` (asks for it). Without `--production` the script uses sandbox.zenodo.org, and
 `--new-version-of=<record>` adds a version to an existing record.
 
-The script creates a **draft** with the run's files and a tarball of the code
-at `HEAD`, and discards it again if anything fails. Metadata, including the
+The script creates a **draft** with the run's files and discards it again if
+anything fails. The code is not uploaded: the record links the Software
+Heritage ID of the run's `code_commit`, which must be pushed, and archived
+via [Save Code Now](https://archive.softwareheritage.org/save/) on Software
+Heritage. Metadata, including the
 DFG funding of MaRDI, comes from `zenodo/metadata.json` (InvenioRDM format),
 the description from `zenodo/description.html`. The script never publishes:
 review the draft and publish it by hand in the Zenodo web interface.
