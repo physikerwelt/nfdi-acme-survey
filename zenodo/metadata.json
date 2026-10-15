@@ -3,6 +3,7 @@
     "id": "dataset"
   },
   "title": "Certificate authorities used by the NFDI consortia (TLS issuer survey)",
+  "publisher": "FIZ Karlsruhe",
   "creators": [
     {
       "person_or_org": {
