@@ -1,0 +1,381 @@
+hostname,qid,organisation,role,domain,source,status,ca,issuer_org,issuer_cn,not_after
+4memory.de,Q98231721,NFDI4Memory,consortium,4memory.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-08
+66a75af0b75d5b3b5e94.appwritefunc.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-21
+66abcef1f192694734a0.appwritefunc.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-21
+66ba252dcbfa43bd3e28.appwritefunc.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-20
+about.coscine.de,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-18
+ae-test.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-22
+ae.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-28
+agqa.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,unreachable,,,,
+akf.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-09
+alex.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-04
+alfresco.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-26
+algodata.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-23
+altcha.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-30
+analytics.berd-nfdi.de,Q108542181,BERD@NFDI,consortium,berd-nfdi.de,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-11
+api.aai.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-09
+api.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+api.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-07
+api.supabase.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,unreachable,,,,
+apps.edutrain.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-16
+appwrite.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-20
+appwritefunc.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-20
+ask.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-23
+auth.aai.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-09
+auth.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+auth.nfdi4plants.org,Q98380336,DataPLANT,consortium,nfdi4plants.org,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+auto.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,ZeroSSL,"ZeroSSL GmbH","ZeroSSL ECC DV SSL CA 2",2026-11-23
+autodiscover.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-18
+av.tib.eu,Q98231721,NFDI4Memory,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-29
+backend.jarves.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-14
+backup.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,unreachable,,,,
+bandv1.denbi.uni-tuebingen.de,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-10-15
+base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+basiskurs-fdm.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-15
+berd-nfdi.de,Q108542181,BERD@NFDI,consortium,berd-nfdi.de,ct-log,no-dns,,,,
+bexis2.uni-jena.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-20
+biodivportal.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-16
+catalogues.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-16
+cca.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,unreachable,,,,
+certmanager-test.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,unreachable,,,,
+cfp.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-16
+chat.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-11-20
+chat.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-02
+chat.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-26
+chatbot.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-07
+checklisten.rotelistezentrum.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-20
+ci.rdmc.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-22
+cloud-dev.uni-muenster.de,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-10
+cloud.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-11-20
+cloud.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-20
+cloud.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-21
+cloud.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-26
+clowm.bi.denbi.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-11
+collabora.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-22
+commons.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-04
+community.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-19
+contact.appwritefunc.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-26
+coordination.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-12
+cordra.knowledgehub.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-07
+coscine.rwth-aachen.de,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-11-13
+covid19.studyhub.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-31
+critterbase.awi.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-10
+csh.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-12
+daphne4nfdi.de,Q108542327,DAPHNE4NFDI,consortium,daphne4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-16
+data-collections.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-07
+data.ghga.de,Q98380337,GHGA,consortium,ghga.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-07
+data.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-07
+data.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-21
+datasets.search-hub.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-05
+datastories.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-03
+db.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-24
+deepchat.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-23
+demo-d3.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-25
+demo-kadi4mat.iam.kit.edu,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-25
+demo-repository.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-28
+demo.bexis2.uni-jena.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-03
+demo.fiz-karlsruhe.de,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+demo.osvdi.uni-freiburg.de,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+dev.konsortswd.de,Q98380340,KonsortSWD,consortium,konsortswd.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-20
+develop.nfdi4bioimage.de,Q113500855,NFDI4BIOIMAGE,consortium,nfdi4bioimage.de,ct-log,no-dns,,,,
+dmp.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-26
+dmp.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-04
+dmp4ps.fairmat-nfdi.eu,Q108542373,FAIRmat,consortium,fairmat-nfdi.eu,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-16
+dmpg.nfdi4plants.org,Q98380336,DataPLANT,consortium,nfdi4plants.org,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+doc.elabftw.net,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-02
+docs.coscine.de,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-19
+docs.ghga.de,Q98380337,GHGA,consortium,ghga.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-26
+docs.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-07
+docs.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-27
+docs.pyscal.org,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-08
+docs.vat.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-05
+drafts.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-03
+dwb.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,unreachable,,,,
+education.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-04
+edutrain.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-12-17
+emporion.gswg.info,Q98380340,KonsortSWD,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-24
+eobs-agent.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-07
+events.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-04
+fair-di.eu,Q108542373,FAIRmat,consortium,fair-di.eu,ct-log,ok,DigiCert,"DigiCert Inc","Encryption Everywhere DV TLS CA - G2",2027-01-24
+fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-18
+fairmat-nfdi.eu,Q108542373,FAIRmat,consortium,fairmat-nfdi.eu,ct-log,ok,DigiCert,"DigiCert Inc","Encryption Everywhere DV TLS CA - G2",2027-03-10
+fdo.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-28
+fdo.staging.mardi4nfdi.org,Q108327788,MaRDI,consortium,mardi4nfdi.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-28
+fdz.iab.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,Sectigo,"Sectigo Limited","Sectigo Public Server Authentication CA OV R36",2027-02-20
+fielddatabaseplatform.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-04
+flask.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-24
+forum.konsortswd.de,Q98380340,KonsortSWD,consortium,konsortswd.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-21
+gateway.datamanager.kit.edu,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-11
+ghga.de,Q98380337,GHGA,consortium,ghga.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-21
+ghga.dkfz.de,Q98380337,GHGA,consortium,ghga.dkfz.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-19
+git.ae-test.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-22
+git.nfdi4plants.org,Q98380336,DataPLANT,consortium,nfdi4plants.org,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+grafana.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-21
+graph.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-17
+groupware.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-11-20
+handle.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+hbag.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-13
+help.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-02
+helpdesk-devel.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-30
+helpdesk.ghga.de,Q98380337,GHGA,consortium,ghga.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-08
+helpdesk.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-07
+helpdesk.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-23
+helpdesk.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-20
+helpdesk.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-01
+helpdesk.nfdi4plants.org,Q98380336,DataPLANT,consortium,nfdi4plants.org,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+hilfe.multibasecs.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"GlobalSign nv-sa","GlobalSign nv-sa","GlobalSign GCC R46 AlphaSSL CA 2025",2027-02-14
+histocat.4memory-dataliteracy.de,Q98231721,NFDI4Memory,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+hub.edutrain.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-16
+iam.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-14
+idp.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-02
+images.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-19
+imaging.usegalaxy.eu,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-18
+imap.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,unreachable,,,,
+importer.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-19
+info.ghga.de,Q98380337,GHGA,consortium,ghga.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-14
+ingest.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-07
+ingest.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-02
+intra.punch4nfdi.de,Q108542637,PUNCH4NFDI,consortium,punch4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-27
+ipfs-admin.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-30
+ipfs.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-30
+jards.itc.rwth-aachen.de,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-06
+jarves.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-14
+jekyll.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-26
+jipipe.hki-jena.de,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-04-07
+jupyter.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-19
+kadi4mat.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-17
+kb-dev.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-18
+kb.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Google Trust Services","Google Trust Services",WE1,2026-12-16
+kb.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-29
+kgi.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-06
+knowledge-base.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-04
+knowledgebase.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-21
+knowledgebase.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-26
+knowledgebase.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-21
+knowledgehub.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-03-04
+komodo.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-16
+konsortswd.de,Q98380340,KonsortSWD,consortium,konsortswd.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-05
+kuma.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-20
+lab.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-11-20
+label.knowledgehub.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-07
+land.gbif.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-07
+lido.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-16
+lists.nfdi4biodiversity.org,Q98380341,NFDI4Biodiversity,consortium,nfdi4biodiversity.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-09
+lod.gesis.org,Q108542181,BERD@NFDI,consortium,,discovered,ok,"no issuer organisation",,Gesis-Enterprise-CA,2026-04-27
+logflare.supabase.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+login.knowledgehub.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-07
+login.nfdi4biodiversity.org,Q98380341,NFDI4Biodiversity,consortium,nfdi4biodiversity.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-22
+login.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-07
+long-term.berd-nfdi.de,Q108542181,BERD@NFDI,consortium,berd-nfdi.de,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-17
+maps.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-11-27
+mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-06
+mardi4nfdi.org,Q108327788,MaRDI,consortium,mardi4nfdi.org,ct-log,ok,"no issuer organisation",,"TRAEFIK DEFAULT CERT",2027-10-14
+marge.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-24
+mathalgodb.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-12
+matomo.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-18
+matomo.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-19
+maturitymodel.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-16
+matwerk.datamanager.kit.edu,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-27
+mbi.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-09
+mcp.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-06
+mda.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-02
+metadata.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+metadata4cat.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-07
+mfa.aai.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-09
+mica.covid19.studyhub.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-19
+middleware-dev.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,no-dns,,,,
+middleware-test.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-19
+middleware.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-01
+mission-statement.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-04
+mmdbmcp.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-06
+mon.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-11
+mon.search-hub.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-18
+mscbackend.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-23
+msceval.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-23
+mscexplainer.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-23
+newstandards.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-08
+nextcloud.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-13
+nextcloud.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-13
+nextcloud.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-21
+nfdi-matwerk.de,Q108542607,NFDI-MatWerk,consortium,nfdi-matwerk.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-22
+nfdi.de,Q61658497,"German National Research Data Infrastructure",directorate,nfdi.de,ct-log,ok,DigiCert,"DigiCert Inc","Thawte TLS RSA CA G1",2027-01-30
+nfdi.fiz-karlsruhe.de,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+nfdi.social,Q61658497,"German National Research Data Infrastructure",directorate,nfdi.social,ct-log,ok,DigiCert,"DigiCert Inc","Encryption Everywhere DV TLS CA - G2",2027-02-15
+nfdi4biodiversity.org,Q98380341,NFDI4Biodiversity,consortium,nfdi4biodiversity.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-16
+nfdi4bioimage.de,Q113500855,NFDI4BIOIMAGE,consortium,nfdi4bioimage.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-21
+nfdi4bioimage.hhu-hosting.de,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-21
+nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-19
+nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-03-06
+nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-16
+nfdi4datascience.de,Q108542422,NFDI4DataScience,consortium,nfdi4datascience.de,ct-log,no-dns,,,,
+nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+nfdi4energy.de,Q113499626,NFDI4Energy,consortium,nfdi4energy.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-20
+nfdi4energy.uol.de,Q113499626,NFDI4Energy,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-13
+nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-25
+nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,no-dns,,,,
+nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-12
+nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-21
+nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-04
+nfdi4plants.de,Q98380336,DataPLANT,consortium,nfdi4plants.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-10-31
+nfdi4plants.org,Q98380336,DataPLANT,consortium,nfdi4plants.org,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+nfdi4society.de,Q98380340,KonsortSWD,consortium,nfdi4society.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-20
+nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-04
+nocodb.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-26
+nocodb.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,unreachable,,,,
+oai-input.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-02
+oai.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-13
+oai.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-29
+obs.knowledgehub.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-07
+obs.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-07
+omero-tim.gerbi-gmb.de,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-20
+omero-training.gerbi-gmb.de,Q113500855,NFDI4BIOIMAGE,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-02
+omero.nfdi4bioimage.de,Q113500855,NFDI4BIOIMAGE,consortium,nfdi4bioimage.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-02
+onestop4all.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-03-04
+onlyoffice.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-13
+opencloud.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-30
+openphase.rub.de,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-06
+openproject.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-19
+pad.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-04
+pages.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-04
+persistentidentifiers.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+pid.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-07
+pid.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-26
+portainer.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-27
+portal.aai.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-09
+portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-19
+preview.nfdi4bioimage.de,Q113500855,NFDI4BIOIMAGE,consortium,nfdi4bioimage.de,ct-log,no-dns,,,,
+profiles.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-01
+project.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-09
+punch4nfdi.de,Q108542637,PUNCH4NFDI,consortium,punch4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-01
+qgapstest.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-24
+qlever.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-09
+qlever.staging.mardi4nfdi.org,Q108327788,MaRDI,consortium,mardi4nfdi.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-26
+quality.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-19
+query.akf.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-09
+query.hbag.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-13
+query.mbi.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-09
+query.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-19
+query.wl.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-27
+questions.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,no-dns,,,,
+quickstatements.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-19
+radar.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-24
+rdf.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-12-17
+rdf.pyscal.org,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-14
+rdmc.create.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-22
+rdmc.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-20
+rdmc.services.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-15
+rdmo.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-01
+rdmo.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2026-12-12
+rdmo.nfdi4bioimage.de,Q113500855,NFDI4BIOIMAGE,consortium,nfdi4bioimage.de,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-14
+rdmo.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-03
+rdmo.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-07
+rdmo.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2026-12-12
+rdmo.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-17
+rdmt.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-15
+rec.akf.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-09
+rec.hbag.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-13
+rec.wl.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-27
+ree.create.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-03
+reg.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-01
+release.nfdi4bioimage.de,Q113500855,NFDI4BIOIMAGE,consortium,nfdi4bioimage.de,ct-log,no-dns,,,,
+repositories.search-hub.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-29
+repository.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-03
+results.punch4nfdi.de,Q108542637,PUNCH4NFDI,consortium,punch4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-25
+run10.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,unreachable,,,,
+scigraphchat-api.services.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-29
+scigraphchat.services.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-29
+search-hub.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-10
+search.gesis.org,Q98380340,KonsortSWD,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-20
+search.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-16
+search.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-05
+seek.covid19.studyhub.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-01
+seek.studyhub.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-01
+semman4cat.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+smtp.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,unreachable,,,,
+software.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-22
+sparql.kgi.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-24
+sparql.knowledgehub.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-07
+sparql2geojson.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-07
+stage.daphne4nfdi.de,Q108542327,DAPHNE4NFDI,consortium,daphne4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-16
+stage.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-20
+staging.mardi4nfdi.org,Q108327788,MaRDI,consortium,mardi4nfdi.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-22
+standards.nfdixcs.org,Q113501071,NFDIxCS,consortium,nfdixcs.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-28
+studio.supabase.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,unreachable,,,,
+submissions.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-16
+success-stories.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-04
+suche.datenportal-rechtsextremismus.de,Q98380340,KonsortSWD,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-14
+supabase.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-29
+superset.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-27
+survey.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-20
+survey.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-23
+survey.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-24
+survey.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-05
+swate-alpha.nfdi4plants.org,Q98380336,DataPLANT,consortium,nfdi4plants.org,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+teacher.edutrain.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-16
+terminologies.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-06
+terminology.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-10
+terminology.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+terminology.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2027-01-10
+terminology.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-14
+test.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,unreachable,,,,
+text-corpus.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-19
+text-plus.org,Q98271443,Text+,consortium,text-plus.org,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-04-07
+thredds.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+ticket.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-02
+tickets.nfdi4culture.de,Q98276929,NFDI4Culture,consortium,nfdi4culture.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-20
+train.bexis2.uni-jena.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-03
+transformation.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-19
+transmart.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-11
+triq.nfdi4cat.org,Q98380342,NFDI4Cat,consortium,nfdi4cat.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-28
+ts.berd-nfdi.de,Q108542181,BERD@NFDI,consortium,berd-nfdi.de,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-12
+ts.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2027-01-08
+uptime-kuma.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-10
+uptime.portal.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-29
+v3.pyscal.org,Q108542607,NFDI-MatWerk,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-15
+vat.gfbio.org,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-16
+vesa-backend.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-07
+vesa.webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-07
+vokabulare.geschichte.uni-halle.de,Q98231721,NFDI4Memory,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+web.app.ufz.de,Q98380341,NFDI4Biodiversity,consortium,,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-04-25
+web01.devel.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,discovered,no-dns,,,,
+webapps.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+wl.kgi.uni-mannheim.de,Q108542181,BERD@NFDI,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-27
+wp-dev.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-25
+wp.dev.kgi.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-19
+wp.dev.rdmt.services.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-16
+www.4memory.de,Q98231721,NFDI4Memory,consortium,4memory.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2027-01-08
+www.4memory.uni-trier.de,Q98231721,NFDI4Memory,consortium,,discovered,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-15
+www.base4nfdi.de,Q113544452,Base4NFDI,basic-services,base4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+www.berd-nfdi.de,Q108542181,BERD@NFDI,consortium,berd-nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-02
+www.daphne4nfdi.de,Q108542327,DAPHNE4NFDI,consortium,daphne4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-16
+www.data.ghga.de,Q98380337,GHGA,consortium,ghga.de,discovered,no-dns,,,,
+www.dev.konsortswd.de,Q98380340,KonsortSWD,consortium,konsortswd.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-20
+www.fair-di.eu,Q108542373,FAIRmat,consortium,fair-di.eu,ct-log,ok,DigiCert,"DigiCert Inc","Encryption Everywhere DV TLS CA - G2",2027-01-24
+www.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-18
+www.fairmat-nfdi.eu,Q108542373,FAIRmat,consortium,fairmat-nfdi.eu,discovered,ok,DigiCert,"DigiCert Inc","Encryption Everywhere DV TLS CA - G2",2027-03-10
+www.forum.konsortswd.de,Q98380340,KonsortSWD,consortium,konsortswd.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-11-21
+www.ghga.de,Q98380337,GHGA,consortium,ghga.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-04-08
+www.konsortswd.de,Q98380340,KonsortSWD,consortium,konsortswd.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2027-01-05
+www.mardi4nfdi.de,Q108327788,MaRDI,consortium,mardi4nfdi.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-02-06
+www.nfdi.de,Q61658497,"German National Research Data Infrastructure",directorate,nfdi.de,ct-log,ok,DigiCert,"DigiCert Inc","Thawte TLS RSA CA G1",2027-01-30
+www.nfdi.social,Q61658497,"German National Research Data Infrastructure",directorate,nfdi.social,ct-log,no-dns,,,,
+www.nfdi4biodiversity.org,Q98380341,NFDI4Biodiversity,consortium,nfdi4biodiversity.org,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-16
+www.nfdi4bioimage.de,Q113500855,NFDI4BIOIMAGE,consortium,nfdi4bioimage.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-11-21
+www.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-03-06
+www.nfdi4datascience.de,Q108542422,NFDI4DataScience,consortium,nfdi4datascience.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-03-15
+www.nfdi4earth.de,Q108542504,NFDI4Earth,consortium,nfdi4earth.de,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS ECC 1",2027-02-06
+www.nfdi4energy.de,Q113499626,NFDI4Energy,consortium,nfdi4energy.de,ct-log,ok,DigiCert,"DigiCert Inc","Thawte TLS RSA CA G1",2026-10-24
+www.nfdi4health.de,Q98380343,NFDI4Health,consortium,nfdi4health.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-11-25
+www.nfdi4immuno.de,Q113543313,NFDI4Immuno,consortium,nfdi4immuno.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-27
+www.nfdi4ing.de,Q98380344,NFDI4ING,consortium,nfdi4ing.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR1,2026-12-12
+www.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-22
+www.nfdi4objects.net,Q98229157,NFDI4Objects,consortium,nfdi4objects.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE1,2026-12-04
+www.nfdi4plants.de,Q98380336,DataPLANT,consortium,nfdi4plants.de,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2026-10-31
+www.nfdi4plants.org,Q98380336,DataPLANT,consortium,nfdi4plants.org,discovered,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-01-08
+www.nfdi4society.de,Q98380340,KonsortSWD,consortium,nfdi4society.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-11-20
+www.punch4nfdi.de,Q108542637,PUNCH4NFDI,consortium,punch4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-01
+www.text-plus.org,Q98271443,Text+,consortium,text-plus.org,ct-log,ok,HARICA,"Hellenic Academic and Research Institutions CA","GEANT TLS RSA 1",2027-04-07
+wwww.nfdi4chem.de,Q96678459,NFDI4Chem,consortium,nfdi4chem.de,ct-log,no-dns,,,,
+wwww.punch4nfdi.de,Q108542637,PUNCH4NFDI,consortium,punch4nfdi.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YR2,2026-12-01
+zammad.fairagro.net,Q113486316,FAIRagro,consortium,fairagro.net,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-20
+zammad.nfdi4microbiota.de,Q99534506,NFDI4Microbiota,consortium,nfdi4microbiota.de,ct-log,ok,"Let's Encrypt","Let's Encrypt",YE2,2026-12-02

@@ -1,0 +1,29 @@
+{
+    "started": "2026-10-15T08:55:57+00:00",
+    "finished": "2026-10-15T08:57:07+00:00",
+    "tool": "nfdi-acme-survey",
+    "php": "8.3.35",
+    "openssl": "OpenSSL 4.0.3 29 Sep 2026",
+    "sources": {
+        "organisations": "organisations.json, fetched 2026-10-15T08:32:25+00:00 from Wikidata: instances of Q98270496 (accepted NFDI consortium) plus Q61658497, Q113544452; official websites from P856; cross-checked with GEPRIS (P4870)",
+        "hostnames": "crt.sh, certificates for %.<domain> excluding expired ones; plus reviewed service hosts from services.json",
+        "issuers": "live TLS handshake on port 443 with SNI, certificate not verified"
+    },
+    "totals": {
+        "organisations": 28,
+        "consortia": 26,
+        "hostnames": 380,
+        "reachable": 356,
+        "by_ca": {
+            "Let's Encrypt": 279,
+            "HARICA": 63,
+            "DigiCert": 8,
+            "no issuer organisation": 2,
+            "ZeroSSL": 1,
+            "Sectigo": 1,
+            "GlobalSign nv-sa": 1,
+            "Google Trust Services": 1
+        },
+        "consortia_only_lets_encrypt": 10
+    }
+}

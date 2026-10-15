@@ -1,0 +1,1288 @@
+{
+    "discovered": "2026-10-15T08:51:41+00:00",
+    "note": "Candidates from Wikidata (P137/P361/P127/P749/P1269 with P856) and from links on the organisations' websites, reviewed with bin/review-services.php. Kept: hosts offering data, software or a service of the organisation, run by institutions in the NFDI. Excluded hosts list the reason.",
+    "services": {
+        "Q108542181": {
+            "label": "BERD@NFDI",
+            "hosts": [
+                {
+                    "host": "akf.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "analytics.berd-nfdi.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/analytics-portal/"
+                },
+                {
+                    "host": "fdz.iab.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/featured-datasets/"
+                },
+                {
+                    "host": "hbag.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "lod.gesis.org",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "long-term.berd-nfdi.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de"
+                },
+                {
+                    "host": "mbi.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "query.akf.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "query.hbag.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "query.mbi.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "query.wl.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "rec.akf.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "rec.hbag.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "rec.wl.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "ts.berd-nfdi.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                },
+                {
+                    "host": "wl.kgi.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/knowledge-graph-infrastructure/"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "berd-nfdi.github.io",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/open-educational-resources-hub/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "de.khanacademy.org",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/recommended-tools/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "journals.sagepub.com",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/recommended-tools/",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "myjob.uni-mannheim.de",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/hiring-legal-counsel-research-data-m-f-d/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "nade-explorer.inkrement.ai",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/recommended-tools/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "openlearning.mit.edu",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/recommended-tools/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "papers.ssrn.com",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/recommended-tools/",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "pll.harvard.edu",
+                    "source": "website",
+                    "evidence": "https://www.berd-nfdi.de/recommended-tools/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                }
+            ]
+        },
+        "Q108542327": {
+            "label": "DAPHNE4NFDI",
+            "hosts": [],
+            "excluded": [
+                {
+                    "host": "static.scc.kit.edu",
+                    "source": "website",
+                    "evidence": "https://www.daphne4nfdi.de",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                }
+            ]
+        },
+        "Q98380336": {
+            "label": "DataPLANT",
+            "hosts": [
+                {
+                    "host": "auth.nfdi4plants.org",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de"
+                },
+                {
+                    "host": "dmpg.nfdi4plants.org",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de"
+                },
+                {
+                    "host": "git.nfdi4plants.org",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de"
+                },
+                {
+                    "host": "helpdesk.nfdi4plants.org",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de"
+                },
+                {
+                    "host": "swate-alpha.nfdi4plants.org",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de"
+                },
+                {
+                    "host": "www.nfdi4plants.org",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "nfdi4plants.github.io",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "nfdi4plants.org",
+                    "source": "website",
+                    "evidence": "http://nfdi4plants.de",
+                    "reason": "already surveyed (CT log of DataPLANT)"
+                }
+            ]
+        },
+        "Q108542373": {
+            "label": "FAIRmat",
+            "hosts": [
+                {
+                    "host": "dmp4ps.fairmat-nfdi.eu",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/dmp-support/dmp-overview"
+                },
+                {
+                    "host": "www.fairmat-nfdi.eu",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "csmb.hu-berlin.de",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/seminar",
+                    "reason": "other initiative or institute page, not a service of the organisation"
+                },
+                {
+                    "host": "events.fairmat-nfdi.eu",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/tutorials-fairmat",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "events.hifis.net",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/physical-sciences-nfdi",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "fair-di.eu",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/",
+                    "reason": "already surveyed (CT log of FAIRmat)"
+                },
+                {
+                    "host": "fairmat-nfdi.eu",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/",
+                    "reason": "already surveyed (CT log of FAIRmat)"
+                },
+                {
+                    "host": "fairmat-nfdi.github.io",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/tutorials-fairmat",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "iopscience.iop.org",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/talks-publications/publications-fairmat",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "isnr.unileoben.ac.at",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/talks-fairmat",
+                    "reason": "other initiative or institute page, not a service of the organisation"
+                },
+                {
+                    "host": "llmhackathon.github.io",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "nfdi-matwerk.de",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/physical-sciences-nfdi",
+                    "reason": "already surveyed (CT log of NFDI-MatWerk)"
+                },
+                {
+                    "host": "nfdi4cat.org",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/physical-sciences-nfdi",
+                    "reason": "already surveyed (CT log of NFDI4Cat)"
+                },
+                {
+                    "host": "pubs.acs.org",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/talks-publications/publications-fairmat",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "pubs.rsc.org",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/talks-publications/publications-fairmat",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "www.daphne4nfdi.de",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/physical-sciences-nfdi",
+                    "reason": "already surveyed (CT log of DAPHNE4NFDI)"
+                },
+                {
+                    "host": "www.mardi4nfdi.de",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/physical-sciences-nfdi",
+                    "reason": "already surveyed (CT log of MaRDI)"
+                },
+                {
+                    "host": "www.nfdi4chem.de",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/physical-sciences-nfdi",
+                    "reason": "already surveyed (CT log of NFDI4Chem)"
+                },
+                {
+                    "host": "www.punch4nfdi.de",
+                    "source": "website",
+                    "evidence": "https://www.fair-di.eu/fairmat/resources-fairmat/outreach-activities/physical-sciences-nfdi",
+                    "reason": "already surveyed (CT log of PUNCH4NFDI)"
+                }
+            ]
+        },
+        "Q98380337": {
+            "label": "GHGA",
+            "hosts": [
+                {
+                    "host": "www.data.ghga.de",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de/news/detail/new-foundation-for-ghga-software-development"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "beck-online.beck.de",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de/resources/publications",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "data.ghga.de",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de",
+                    "reason": "already surveyed (CT log of GHGA)"
+                },
+                {
+                    "host": "docs.ghga.de",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de/datenportal/metadata-model",
+                    "reason": "already surveyed (CT log of GHGA)"
+                },
+                {
+                    "host": "ncbench.github.io",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de/resources/data-analysis",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "portal.uni-koeln.de",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "tbaa572aa.emailsys1a.net",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "www.ghga.de",
+                    "source": "website",
+                    "evidence": "https://ghga.dkfz.de",
+                    "reason": "already surveyed (CT log of GHGA)"
+                }
+            ]
+        },
+        "Q98380340": {
+            "label": "KonsortSWD",
+            "hosts": [
+                {
+                    "host": "emporion.gswg.info",
+                    "source": "website",
+                    "evidence": "https://www.konsortswd.de/angebote/forschende/datensuche/"
+                },
+                {
+                    "host": "search.gesis.org",
+                    "source": "website",
+                    "evidence": "https://www.konsortswd.de/angebote/forschende/datensuche/"
+                },
+                {
+                    "host": "suche.datenportal-rechtsextremismus.de",
+                    "source": "website",
+                    "evidence": "https://www.konsortswd.de/angebote/forschende/datensuche/"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "dataverse.harvard.edu",
+                    "source": "website",
+                    "evidence": "https://www.konsortswd.de/angebote/forschende/datensuche/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                }
+            ]
+        },
+        "Q108542607": {
+            "label": "NFDI-MatWerk",
+            "hosts": [
+                {
+                    "host": "about.coscine.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "coscine.rwth-aachen.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "demo-kadi4mat.iam.kit.edu",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services"
+                },
+                {
+                    "host": "demo.fiz-karlsruhe.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "doc.elabftw.net",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services"
+                },
+                {
+                    "host": "docs.coscine.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "docs.pyscal.org",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "gateway.datamanager.kit.edu",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "jards.itc.rwth-aachen.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services"
+                },
+                {
+                    "host": "matwerk.datamanager.kit.edu",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "nfdi.fiz-karlsruhe.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "openphase.rub.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services"
+                },
+                {
+                    "host": "rdf.pyscal.org",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                },
+                {
+                    "host": "v3.pyscal.org",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "aimsgb-docs.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "data-collections.nfdi4ing.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "already surveyed (CT log of NFDI4ING)"
+                },
+                {
+                    "host": "dgm.inventum.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de",
+                    "reason": "other initiative or institute page, not a service of the organisation"
+                },
+                {
+                    "host": "executorlib.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "git.rwth-aachen.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services",
+                    "reason": "general code hosting of a university"
+                },
+                {
+                    "host": "gitlab.git.nrw",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services",
+                    "reason": "general code hosting of a university"
+                },
+                {
+                    "host": "hdl.handle.net",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "PID resolver"
+                },
+                {
+                    "host": "kadi.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "kit-data-manager.github.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "next-gen.materialsproject.org",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "nfdi4ing.pages.rwth-aachen.de",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "openbis.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "owlready2.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "paraprobe-toolbox.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "pasta-eln.github.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "profile.materialsproject.org",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "pyiron.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "tools4rdf.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/software-/-tools-/-services",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "wiki.fysik.dtu.dk",
+                    "source": "website",
+                    "evidence": "https://nfdi-matwerk.de/solutions/all-solutions/further-software-/-tools-/-services",
+                    "reason": "international or commercial service, not run in the NFDI"
+                }
+            ]
+        },
+        "Q113500855": {
+            "label": "NFDI4BIOIMAGE",
+            "hosts": [
+                {
+                    "host": "bandv1.denbi.uni-tuebingen.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/bioimage-analysis-desktop/"
+                },
+                {
+                    "host": "cloud-dev.uni-muenster.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/s3-and-file-storage-for-large-bioimaging-data/"
+                },
+                {
+                    "host": "demo.osvdi.uni-freiburg.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/home/open-source-virtual-desktop-infrastructure/"
+                },
+                {
+                    "host": "imaging.usegalaxy.eu",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/galaxy-tool-integration/"
+                },
+                {
+                    "host": "jipipe.hki-jena.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/jipipe/"
+                },
+                {
+                    "host": "nfdi4bioimage.hhu-hosting.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/"
+                },
+                {
+                    "host": "omero-tim.gerbi-gmb.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/omero-services/"
+                },
+                {
+                    "host": "omero-training.gerbi-gmb.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/omero-services/"
+                },
+                {
+                    "host": "rdmo.nfdi4bioimage.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/rdmo/"
+                },
+                {
+                    "host": "www.nfdi4plants.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/publications/"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "applied-systems-biology.github.io",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/jipipe/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "bard-external.embl.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/bioimage-analysis-desktop/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "events.hifis.net",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "gitlab.uni-freiburg.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/home/open-source-virtual-desktop-infrastructure/",
+                    "reason": "general code hosting of a university"
+                },
+                {
+                    "host": "login.aai.lifescience-ri.eu",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/bioimage-analysis-desktop/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "neubias.github.io",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/format-development-and-ambassadorship/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "neuroglancer-docs.web.app",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/format-development-and-ambassadorship/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "nfdi4bioimage.github.io",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "ngff.openmicroscopy.org",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/format-development-and-ambassadorship/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "ome-model.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/format-development-and-ambassadorship/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "omero.nfdi4bioimage.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/omero-services/",
+                    "reason": "already surveyed (CT log of NFDI4BIOIMAGE)"
+                },
+                {
+                    "host": "omero.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/omero-services/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "omnipose.readthedocs.io",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/jipipe/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "physics-of-life.tu-dresden.de",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/events-and-trainings/",
+                    "reason": "other initiative or institute page, not a service of the organisation"
+                },
+                {
+                    "host": "pubs.aip.org",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/publications/",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "rdmkit.elixir-europe.org",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/events-and-trainings/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "training.galaxyproject.org",
+                    "source": "website",
+                    "evidence": "https://nfdi4bioimage.de/en/services/galaxy-tool-integration/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                }
+            ]
+        },
+        "Q98380341": {
+            "label": "NFDI4Biodiversity",
+            "hosts": [
+                {
+                    "host": "bexis2.uni-jena.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "biodivportal.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "checklisten.rotelistezentrum.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "clowm.bi.denbi.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "critterbase.awi.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "demo.bexis2.uni-jena.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "dmp.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/datenzentren/"
+                },
+                {
+                    "host": "docs.vat.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "dwb.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "hilfe.multibasecs.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/news/schnittstelle-vernetzt-behoerdliche-artbeobachtungsdaten-mit-biodiversitaetsportalen/"
+                },
+                {
+                    "host": "kb.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org"
+                },
+                {
+                    "host": "land.gbif.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "search.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "submissions.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/datenzentren/"
+                },
+                {
+                    "host": "terminologies.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/training/trainings-zu-tools-and-services/"
+                },
+                {
+                    "host": "train.bexis2.uni-jena.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "transformation.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "vat.gfbio.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "web.app.ufz.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/services/"
+                },
+                {
+                    "host": "www.nfdi4plants.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/mou-biodata-group/"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "bdj.pensoft.net",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/news/von-ehrenamtlichen-beobachtungen-zur-forschungsressource/",
+                    "reason": "publisher or journal"
+                },
+                {
+                    "host": "bexis2.github.io",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/training/trainings-zu-tools-and-services/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/datenschutz/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "events.hifis.net",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/mou-biodata-group/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "gfbio.pageflow.io",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/news/wenn-daten-geschichten-erzaehlen/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "meetings.ipk-gatersleben.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/mou-biodata-group/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "nfdi4biodiversity.org",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org",
+                    "reason": "already surveyed (CT log of NFDI4Biodiversity)"
+                },
+                {
+                    "host": "nfdi4bioimage.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/mou-biodata-group/",
+                    "reason": "already surveyed (CT log of NFDI4BIOIMAGE)"
+                },
+                {
+                    "host": "nfdi4microbiota.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/mou-biodata-group/",
+                    "reason": "already surveyed (CT log of NFDI4Microbiota)"
+                },
+                {
+                    "host": "rightfield.org.uk",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/training/trainings-zu-tools-and-services/",
+                    "reason": "international or commercial service, not run in the NFDI"
+                },
+                {
+                    "host": "www.nfdi4objects.net",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4biodiversity.org/de/mou-biodata-group/",
+                    "reason": "already surveyed (CT log of NFDI4Objects)"
+                }
+            ]
+        },
+        "Q108542422": {
+            "label": "NFDI4DataScience",
+            "hosts": [],
+            "excluded": []
+        },
+        "Q113499626": {
+            "label": "NFDI4Energy",
+            "hosts": [
+                {
+                    "host": "nfdi4energy.uol.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4energy.de"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "maps.app.goo.gl",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4energy.de",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                }
+            ]
+        },
+        "Q113543313": {
+            "label": "NFDI4Immuno",
+            "hosts": [
+                {
+                    "host": "web01.devel.nfdi4immuno.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4immuno.de/"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "nextcloud.nfdi4immuno.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi4immuno.de/",
+                    "reason": "already surveyed (CT log of NFDI4Immuno)"
+                }
+            ]
+        },
+        "Q98231721": {
+            "label": "NFDI4Memory",
+            "hosts": [
+                {
+                    "host": "av.tib.eu",
+                    "source": "website",
+                    "evidence": "https://4memory.de/dienste-ressourcen/dienstportfolio/detail/conedakor/"
+                },
+                {
+                    "host": "histocat.4memory-dataliteracy.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/task-areas/task-area-4-data-literacy/histocat/"
+                },
+                {
+                    "host": "vokabulare.geschichte.uni-halle.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/ueber-4memory/task-areas/data-connectivity/"
+                },
+                {
+                    "host": "www.4memory.uni-trier.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/task-areas/task-area-4-data-literacy/histocat/"
+                }
+            ],
+            "excluded": [
+                {
+                    "host": "blog.factgrid.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/ueber-4memory/task-areas/data-connectivity/",
+                    "reason": "other initiative or institute page, not a service of the organisation"
+                },
+                {
+                    "host": "dhistory.hypotheses.org",
+                    "source": "website",
+                    "evidence": "https://4memory.de/ueber-4memory/task-areas/data-culture/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "href.hypotheses.org",
+                    "source": "website",
+                    "evidence": "https://4memory.de/ueber-4memory/task-areas/data-literacy/",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "lists.uni-mainz.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "nfdi4culture.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/ueber-4memory/task-areas/data-services/",
+                    "reason": "already surveyed (CT log of NFDI4Culture)"
+                },
+                {
+                    "host": "organisation.uni-mainz.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/datenschutz/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "webstats.zdv.uni-mainz.de",
+                    "source": "website",
+                    "evidence": "https://4memory.de/datenschutz/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                }
+            ]
+        },
+        "Q108542637": {
+            "label": "PUNCH4NFDI",
+            "hosts": [],
+            "excluded": [
+                {
+                    "host": "events.gwdg.de",
+                    "source": "website",
+                    "evidence": "https://www.punch4nfdi.de",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "results.punch4nfdi.de",
+                    "source": "website",
+                    "evidence": "https://www.punch4nfdi.de",
+                    "reason": "already surveyed (CT log of PUNCH4NFDI)"
+                },
+                {
+                    "host": "sci-k.github.io",
+                    "source": "website",
+                    "evidence": "https://www.punch4nfdi.de",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                }
+            ]
+        },
+        "Q98271443": {
+            "label": "Text+",
+            "hosts": [],
+            "excluded": []
+        },
+        "Q61658497": {
+            "label": "German National Research Data Infrastructure",
+            "hosts": [],
+            "excluded": [
+                {
+                    "host": "4memory.de",
+                    "source": "wikidata",
+                    "evidence": "Q98231721",
+                    "reason": "already surveyed (CT log of NFDI4Memory)"
+                },
+                {
+                    "host": "base4nfdi.de",
+                    "source": "wikidata",
+                    "evidence": "Q113544452",
+                    "reason": "already surveyed (CT log of Base4NFDI)"
+                },
+                {
+                    "host": "converia.uni-mainz.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi.de/fair-data-spaces-events/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "foerderportal.bund.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi.de/fair-data-spaces/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "ghga.dkfz.de",
+                    "source": "wikidata",
+                    "evidence": "Q98380337",
+                    "reason": "already surveyed (CT log of GHGA)"
+                },
+                {
+                    "host": "nfdi-de.github.io",
+                    "source": "wikidata",
+                    "evidence": "Q140073062",
+                    "reason": "third-party hosting of docs, blogs or pages"
+                },
+                {
+                    "host": "nfdi-matwerk.de",
+                    "source": "wikidata",
+                    "evidence": "Q108542607",
+                    "reason": "already surveyed (CT log of NFDI-MatWerk)"
+                },
+                {
+                    "host": "nfdi.social",
+                    "source": "website",
+                    "evidence": "https://www.nfdi.de/",
+                    "reason": "already surveyed (CT log of German National Research Data Infrastructure)"
+                },
+                {
+                    "host": "nfdi4bioimage.de",
+                    "source": "wikidata",
+                    "evidence": "Q113500855",
+                    "reason": "already surveyed (CT log of NFDI4BIOIMAGE)"
+                },
+                {
+                    "host": "nfdi4cat.org",
+                    "source": "wikidata",
+                    "evidence": "Q98380342",
+                    "reason": "already surveyed (CT log of NFDI4Cat)"
+                },
+                {
+                    "host": "nfdi4culture.de",
+                    "source": "wikidata",
+                    "evidence": "Q98276929",
+                    "reason": "already surveyed (CT log of NFDI4Culture)"
+                },
+                {
+                    "host": "nfdi4ing.de",
+                    "source": "wikidata",
+                    "evidence": "Q98380344",
+                    "reason": "already surveyed (CT log of NFDI4ING)"
+                },
+                {
+                    "host": "nfdi4microbiota.de",
+                    "source": "wikidata",
+                    "evidence": "Q99534506",
+                    "reason": "already surveyed (CT log of NFDI4Microbiota)"
+                },
+                {
+                    "host": "nfdi4plants.de",
+                    "source": "wikidata",
+                    "evidence": "Q98380336",
+                    "reason": "already surveyed (CT log of DataPLANT)"
+                },
+                {
+                    "host": "nfdixcs.org",
+                    "source": "wikidata",
+                    "evidence": "Q113501071",
+                    "reason": "already surveyed (CT log of NFDIxCS)"
+                },
+                {
+                    "host": "owncloud.fraunhofer.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi.de/2-fair-data-spaces-workshop/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "saxfdm.de",
+                    "source": "wikidata",
+                    "evidence": "Q67890505",
+                    "reason": "other initiative or institute page, not a service of the organisation"
+                },
+                {
+                    "host": "websites.fraunhofer.de",
+                    "source": "website",
+                    "evidence": "https://www.nfdi.de/fair-data-spaces-community-roadmap/",
+                    "reason": "events, mailing lists, administration or static assets of an institution"
+                },
+                {
+                    "host": "www.arthistoricum.net",
+                    "source": "wikidata",
+                    "evidence": "Q708067",
+                    "reason": "other initiative or institute page, not a service of the organisation"
+                },
+                {
+                    "host": "www.berd-nfdi.de",
+                    "source": "wikidata",
+                    "evidence": "Q108542181",
+                    "reason": "already surveyed (CT log of BERD@NFDI)"
+                },
+                {
+                    "host": "www.daphne4nfdi.de",
+                    "source": "wikidata",
+                    "evidence": "Q108542327",
+                    "reason": "already surveyed (CT log of DAPHNE4NFDI)"
+                },
+                {
+                    "host": "www.fair-di.eu",
+                    "source": "wikidata",
+                    "evidence": "Q108542373",
+                    "reason": "already surveyed (CT log of FAIRmat)"
+                },
+                {
+                    "host": "www.fairagro.net",
+                    "source": "wikidata",
+                    "evidence": "Q113486316",
+                    "reason": "already surveyed (CT log of FAIRagro)"
+                },
+                {
+                    "host": "www.konsortswd.de",
+                    "source": "wikidata",
+                    "evidence": "Q98380340",
+                    "reason": "already surveyed (CT log of KonsortSWD)"
+                },
+                {
+                    "host": "www.mardi4nfdi.de",
+                    "source": "wikidata",
+                    "evidence": "Q108327788",
+                    "reason": "already surveyed (CT log of MaRDI)"
+                },
+                {
+                    "host": "www.nfdi.de",
+                    "source": "wikidata",
+                    "evidence": "Q141672092",
+                    "reason": "already surveyed (CT log of German National Research Data Infrastructure)"
+                },
+                {
+                    "host": "www.nfdi4biodiversity.org",
+                    "source": "wikidata",
+                    "evidence": "Q98380341",
+                    "reason": "already surveyed (CT log of NFDI4Biodiversity)"
+                },
+                {
+                    "host": "www.nfdi4chem.de",
+                    "source": "wikidata",
+                    "evidence": "Q96678459",
+                    "reason": "already surveyed (CT log of NFDI4Chem)"
+                },
+                {
+                    "host": "www.nfdi4datascience.de",
+                    "source": "wikidata",
+                    "evidence": "Q108542422",
+                    "reason": "already surveyed (CT log of NFDI4DataScience)"
+                },
+                {
+                    "host": "www.nfdi4earth.de",
+                    "source": "wikidata",
+                    "evidence": "Q108542504",
+                    "reason": "already surveyed (CT log of NFDI4Earth)"
+                },
+                {
+                    "host": "www.nfdi4energy.de",
+                    "source": "wikidata",
+                    "evidence": "Q113499626",
+                    "reason": "already surveyed (CT log of NFDI4Energy)"
+                },
+                {
+                    "host": "www.nfdi4health.de",
+                    "source": "wikidata",
+                    "evidence": "Q98380343",
+                    "reason": "already surveyed (CT log of NFDI4Health)"
+                },
+                {
+                    "host": "www.nfdi4immuno.de",
+                    "source": "wikidata",
+                    "evidence": "Q113543313",
+                    "reason": "already surveyed (CT log of NFDI4Immuno)"
+                },
+                {
+                    "host": "www.nfdi4objects.net",
+                    "source": "wikidata",
+                    "evidence": "Q98229157",
+                    "reason": "already surveyed (CT log of NFDI4Objects)"
+                },
+                {
+                    "host": "www.punch4nfdi.de",
+                    "source": "wikidata",
+                    "evidence": "Q108542637",
+                    "reason": "already surveyed (CT log of PUNCH4NFDI)"
+                },
+                {
+                    "host": "www.text-plus.org",
+                    "source": "wikidata",
+                    "evidence": "Q98271443",
+                    "reason": "already surveyed (CT log of Text+)"
+                }
+            ]
+        }
+    },
+    "reviewed": "2026-10-15T08:51:41+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "resource_type": {
+    "id": "dataset"
+  },
+  "title": "Certificate authorities used by the NFDI consortia (TLS issuer survey)",
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Schubotz",
+        "given_name": "Moritz"
+      },
+      "affiliations": [
+        {
+          "name": "FIZ Karlsruhe – Leibniz Institute for Information Infrastructure"
+        }
+      ]
+    }
+  ],
+  "rights": [
+    {
+      "id": "cc-by-4.0"
+    }
+  ],
+  "languages": [
+    {
+      "id": "eng"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "NFDI"
+    },
+    {
+      "subject": "TLS"
+    },
+    {
+      "subject": "certificate authority"
+    },
+    {
+      "subject": "ACME"
+    },
+    {
+      "subject": "Let's Encrypt"
+    },
+    {
+      "subject": "digital sovereignty"
+    },
+    {
+      "subject": "research infrastructure"
+    },
+    {
+      "subject": "Wikidata"
+    },
+    {
+      "subject": "certificate transparency"
+    }
+  ],
+  "funding": [
+    {
+      "funder": {
+        "id": "018mejw64"
+      },
+      "award": {
+        "number": "460135501",
+        "title": {
+          "en": "MaRDI"
+        },
+        "identifiers": [
+          {
+            "scheme": "url",
+            "identifier": "https://gepris.dfg.de/gepris/projekt/460135501"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+    "fetched": "2026-10-15T08:32:25+00:00",
+    "source": "Wikidata: instances of Q98270496 (accepted NFDI consortium) plus Q61658497, Q113544452; official websites from P856; cross-checked with GEPRIS (P4870)",
+    "organisations": [
+        {
+            "qid": "Q108542181",
+            "label": "BERD@NFDI",
+            "websites": [
+                "https://www.berd-nfdi.de"
+            ],
+            "gepris": {
+                "id": "460037581",
+                "title": "BERD@NFDI - NFDI for Business, Economic and Related Data (BERDNFDI)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q108542327",
+            "label": "DAPHNE4NFDI",
+            "websites": [
+                "https://www.daphne4nfdi.de"
+            ],
+            "gepris": {
+                "id": "460248799",
+                "title": "DAPHNE4NFDI - DAta from PHoton and Neutron Experiments for NFDI (DAPHNE4NFDI)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98380336",
+            "label": "DataPLANT",
+            "websites": [
+                "http://nfdi4plants.de"
+            ],
+            "gepris": {
+                "id": "442077441",
+                "title": "DataPLANT – Data in PLANT research (DataPLANT)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://nfdi4plants.de"
+            },
+            "role": "consortium",
+            "extra_domains": [
+                "nfdi4plants.org"
+            ]
+        },
+        {
+            "qid": "Q113486316",
+            "label": "FAIRagro",
+            "websites": [
+                "https://www.fairagro.net"
+            ],
+            "gepris": {
+                "id": "501899475",
+                "title": "FAIR Data Infrastructure for Agrosystems (FAIRagro)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q108542373",
+            "label": "FAIRmat",
+            "websites": [
+                "https://www.fair-di.eu/fairmat/"
+            ],
+            "gepris": {
+                "id": "460197019",
+                "title": "FAIRmat – FAIR Data Infrastructure for Condensed-Matter Physics and the Chemical Physics of Solids (FAIRmat)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": [
+                "fairmat-nfdi.eu"
+            ]
+        },
+        {
+            "qid": "Q98380337",
+            "label": "GHGA",
+            "websites": [
+                "https://ghga.dkfz.de"
+            ],
+            "gepris": {
+                "id": "441914366",
+                "title": "GHGA – German Human Genome-Phenome Archive (GHGA)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "www.ghga.de"
+            },
+            "role": "consortium",
+            "extra_domains": [
+                "ghga.de"
+            ]
+        },
+        {
+            "qid": "Q98380340",
+            "label": "KonsortSWD",
+            "websites": [
+                "https://www.konsortswd.de"
+            ],
+            "gepris": {
+                "id": "442494171",
+                "title": "KonsortSWD - nfdi4society. Consortium for the Social, Behavioural, Educational, and Economic Sciences (KonsortSWD)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://www.konsortswd.de"
+            },
+            "role": "consortium",
+            "extra_domains": [
+                "nfdi4society.de"
+            ]
+        },
+        {
+            "qid": "Q108327788",
+            "label": "MaRDI",
+            "websites": [
+                "https://www.mardi4nfdi.de"
+            ],
+            "gepris": {
+                "id": "460135501",
+                "title": "MaRDI - Mathematical Research Data Initiative (MaRDI)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": [
+                "mardi4nfdi.org"
+            ]
+        },
+        {
+            "qid": "Q108542607",
+            "label": "NFDI-MatWerk",
+            "websites": [
+                "https://nfdi-matwerk.de"
+            ],
+            "gepris": {
+                "id": "460247524",
+                "title": "NFDI-MatWerk - National Research Data Infrastructure for Materials Science & Engineering (NFDI-MatWerk)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q113500855",
+            "label": "NFDI4BIOIMAGE",
+            "websites": [
+                "https://nfdi4bioimage.de/"
+            ],
+            "gepris": {
+                "id": "501864659",
+                "title": "NFDI4BIOIMAGE - National research data infrastructure for microscopy and bioimage analysis (NFDI4BIOIMAGE)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98380341",
+            "label": "NFDI4Biodiversity",
+            "websites": [
+                "https://www.nfdi4biodiversity.org"
+            ],
+            "gepris": {
+                "id": "442032008",
+                "title": "NFDI4Biodiversity - National Research Data Infrastructure for Biodiversity, Ecological and Environmental Data (NFDI4BioDivers.)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://www.nfdi4biodiversity.org"
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98380342",
+            "label": "NFDI4Cat",
+            "websites": [
+                "https://nfdi4cat.org"
+            ],
+            "gepris": {
+                "id": "441926934",
+                "title": "NFDI4Cat – NFDI for Catalysis-Related Sciences (NFDI4Cat)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://nfdi4cat.org/en/"
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q96678459",
+            "label": "NFDI4Chem",
+            "websites": [
+                "https://www.nfdi4chem.de"
+            ],
+            "gepris": {
+                "id": "441958208",
+                "title": "NFDI4Chem – Chemistry Consortium in the NFDI (NFDI4Chem)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://nfdi4chem.de"
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98276929",
+            "label": "NFDI4Culture",
+            "websites": [
+                "https://nfdi4culture.de"
+            ],
+            "gepris": {
+                "id": "441958017",
+                "title": "NFDI4Culture – Consortium for research data on material and immaterial cultural heritage (NFDI4Culture)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://nfdi4culture.de"
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q108542422",
+            "label": "NFDI4DataScience",
+            "websites": [
+                "https://www.nfdi4datascience.de"
+            ],
+            "gepris": {
+                "id": "460234259",
+                "title": "NFDI4DS - NFDI for Data Science and Artificial Intelligence (NFDI4DS)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q108542504",
+            "label": "NFDI4Earth",
+            "websites": [
+                "https://www.nfdi4earth.de"
+            ],
+            "gepris": {
+                "id": "460036893",
+                "title": "NFDI4Earth - NFDI Consortium Earth System Sciences (NFDI4Earth)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q113499626",
+            "label": "NFDI4Energy",
+            "websites": [
+                "https://www.nfdi4energy.de"
+            ],
+            "gepris": {
+                "id": "501865131",
+                "title": "National Research Data Infrastructure for Interdisciplinary Energy System Research (nfdi4energy)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98380343",
+            "label": "NFDI4Health",
+            "websites": [
+                "https://www.nfdi4health.de"
+            ],
+            "gepris": {
+                "id": "442326535",
+                "title": "NFDI4Health – National Research Data Infrastructure for Personal Health Data (NFDI4Health)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://www.nfdi4health.de"
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98380344",
+            "label": "NFDI4ING",
+            "websites": [
+                "https://nfdi4ing.de"
+            ],
+            "gepris": {
+                "id": "442146713",
+                "title": "NFDI4ING – National Research Data Infrastructure for Engineering Sciences (NFDI4Ing)",
+                "programme": "NFDI",
+                "term": "since 2020 to 2030",
+                "website": "https://nfdi4ing.de"
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q113543313",
+            "label": "NFDI4Immuno",
+            "websites": [
+                "https://www.nfdi4immuno.de/"
+            ],
+            "gepris": {
+                "id": "501875662",
+                "title": "National Research Data Infrastructure for Immunology (NFDI4Immuno)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": "https://www.nfdi4immuno.de/"
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98231721",
+            "label": "NFDI4Memory",
+            "websites": [
+                "https://4memory.de/"
+            ],
+            "gepris": {
+                "id": "501609550",
+                "title": "NFDI4Memory - The Consortium for the Historically Oriented Humanities (NFDI4Memory)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q99534506",
+            "label": "NFDI4Microbiota",
+            "websites": [
+                "https://nfdi4microbiota.de/"
+            ],
+            "gepris": {
+                "id": "460129525",
+                "title": "NFDI4Microbiota - National Research Data Infrastructure for Microbiota Research (NFDI4Microbiota)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98229157",
+            "label": "NFDI4Objects",
+            "websites": [
+                "https://www.nfdi4objects.net"
+            ],
+            "gepris": {
+                "id": "501836407",
+                "title": "Research Data Infrastructure for the Material Remains of Human History (NFDI4Objects)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q113501071",
+            "label": "NFDIxCS",
+            "websites": [
+                "https://nfdixcs.org/"
+            ],
+            "gepris": {
+                "id": "501930651",
+                "title": "National Research Data Infrastructure for and with Computer Science (NFDIxCS)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q108542637",
+            "label": "PUNCH4NFDI",
+            "websites": [
+                "https://www.punch4nfdi.de"
+            ],
+            "gepris": {
+                "id": "460248186",
+                "title": "PUNCH4NFDI - Particles, Universe, NuClei and Hadrons for the NFDI (PUNCH4NFDI)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q98271443",
+            "label": "Text+",
+            "websites": [
+                "https://www.text-plus.org"
+            ],
+            "gepris": {
+                "id": "460033370",
+                "title": "Text+: Language- and Text-Based Research Data Infrastructure (Text)",
+                "programme": "NFDI",
+                "term": "since 2021 to 2031",
+                "website": ""
+            },
+            "role": "consortium",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q113544452",
+            "label": "Base4NFDI",
+            "websites": [
+                "https://base4nfdi.de/"
+            ],
+            "gepris": {
+                "id": "521453681",
+                "title": "Base4NFDI - Basic Services for NFDI (NFDI4Earth)",
+                "programme": "NFDI",
+                "term": "since 2023",
+                "website": ""
+            },
+            "role": "basic-services",
+            "extra_domains": []
+        },
+        {
+            "qid": "Q61658497",
+            "label": "German National Research Data Infrastructure",
+            "websites": [
+                "https://www.nfdi.de/"
+            ],
+            "gepris": null,
+            "role": "directorate",
+            "extra_domains": [
+                "nfdi.social"
+            ]
+        }
+    ]
+}

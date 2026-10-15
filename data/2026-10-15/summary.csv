@@ -1,0 +1,29 @@
+qid,label,role,hostnames,reachable,lets_encrypt,lets_encrypt_share,only_lets_encrypt,other_cas
+Q108542181,BERD@NFDI,consortium,18,17,15,0.882,no,"Sectigo:1 no issuer organisation:1"
+Q108542327,DAPHNE4NFDI,consortium,3,3,3,1,yes,
+Q98380336,DataPLANT,consortium,9,9,0,0,no,HARICA:9
+Q113486316,FAIRagro,consortium,18,15,15,1,yes,
+Q108542373,FAIRmat,consortium,5,5,1,0.2,no,DigiCert:4
+Q98380337,GHGA,consortium,8,7,6,0.857,no,HARICA:1
+Q98380340,KonsortSWD,consortium,11,11,11,1,yes,
+Q108327788,MaRDI,consortium,38,36,25,0.694,no,"HARICA:10 no issuer organisation:1"
+Q108542607,NFDI-MatWerk,consortium,15,15,11,0.733,no,HARICA:4
+Q113500855,NFDI4BIOIMAGE,consortium,15,12,8,0.667,no,HARICA:4
+Q98380341,NFDI4Biodiversity,consortium,23,22,19,0.864,no,"GlobalSign nv-sa:1 Google Trust Services:1 HARICA:1"
+Q98380342,NFDI4Cat,consortium,13,13,13,1,yes,
+Q96678459,NFDI4Chem,consortium,13,12,10,0.833,no,HARICA:2
+Q98276929,NFDI4Culture,consortium,19,19,19,1,yes,
+Q108542422,NFDI4DataScience,consortium,2,1,0,0,no,HARICA:1
+Q108542504,NFDI4Earth,consortium,24,22,0,0,no,HARICA:22
+Q113499626,NFDI4Energy,consortium,3,3,2,0.667,no,DigiCert:1
+Q98380343,NFDI4Health,consortium,12,12,12,1,yes,
+Q98380344,NFDI4ING,consortium,29,28,25,0.893,no,HARICA:3
+Q113543313,NFDI4Immuno,consortium,10,7,7,1,yes,
+Q98231721,NFDI4Memory,consortium,6,6,5,0.833,no,HARICA:1
+Q99534506,NFDI4Microbiota,consortium,30,28,28,1,yes,
+Q98229157,NFDI4Objects,consortium,16,15,14,0.933,no,ZeroSSL:1
+Q113501071,NFDIxCS,consortium,16,15,15,1,yes,
+Q108542637,PUNCH4NFDI,consortium,5,5,5,1,yes,
+Q98271443,Text+,consortium,2,2,0,0,no,HARICA:2
+Q113544452,Base4NFDI,basic-services,13,13,10,0.769,no,HARICA:3
+Q61658497,"German National Research Data Infrastructure",directorate,4,3,0,0,no,DigiCert:3
